@@ -94,12 +94,3 @@ body {
 
 }
 
-.right-icons {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.right-icons i {
-  cursor: pointer;
-}
